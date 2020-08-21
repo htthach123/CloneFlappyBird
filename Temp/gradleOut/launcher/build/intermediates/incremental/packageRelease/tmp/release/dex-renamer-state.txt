@@ -1,0 +1,4 @@
+#Thu Aug 20 15:38:42 ICT 2020
+base.0=E\:\\unity\\CloneFlappyBird\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
